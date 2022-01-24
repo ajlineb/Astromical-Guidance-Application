@@ -1,4 +1,4 @@
-# UNC_Project_1_Group
+# Astromical Guidance App
 
 ## Description
 
